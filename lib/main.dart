@@ -4,6 +4,6 @@ import 'app.dart';
 
 Future<void> main() async {
   runApp(
-      const App(),
+    const App(),
   );
 }
